@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Pages"
+             x:Class="Pages.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="NAME : Carlos Ivan Rodriguez Perez" />
+        <Label Text="SCHOOL ID : 13090284" />
+        <Button Text="Siguiente Pag." VerticalOptions="Center" HorizontalOptions="Center" Clicked="Button_Clicked" />
+
+        </StackLayout>
+
+
+</ContentPage>
